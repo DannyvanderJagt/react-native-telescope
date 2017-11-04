@@ -1,13 +1,10 @@
 {
   "private": true,
-  "devDependencies": {},
-
-  "react-native": "ExampleApp",
-
-  "workspaces-temp": [
-    "packages/*"
-  ],
-  "dependencies": {
-    "react-native-workspaces": "^0.0.2"
-  }
+  "scripts": {
+    "build": "echo Building",
+    "test": "echo test",
+    "lint": "echo lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
