@@ -1,0 +1,15 @@
+{
+  "name": "react-native-telescope",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/DannyvanderJagt/react-native-telescope.git",
+  "author": "Danny van der Jagt <dannyvanderjagt@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo Building",
+    "test": "echo test",
+    "lint": "echo lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
