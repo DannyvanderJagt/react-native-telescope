@@ -1,20 +1,13 @@
 {
-  "name": "react-native-telescope",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "build": "babel src --out-dir dist",
-    "build-watch": "yarn run build -w"
-  },
+  "private": true,
+  "devDependencies": {},
+
+  "react-native": "ExampleApp",
+
+  "workspaces-temp": [
+    "packages/*"
+  ],
   "dependencies": {
-    "axios": "^0.17.0"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-latest": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0"
+    "react-native-workspaces": "^0.0.2"
   }
 }
