@@ -5,6 +5,7 @@
     "test": "echo test",
     "lint": "echo lint"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
 }
