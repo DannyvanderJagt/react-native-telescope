@@ -1,0 +1,11 @@
+## Flow
+- Do query
+- Return results from db
+- Has api request?
+- API: add to Queue and return Request Object
+- API: execute request
+- API: onResponse handle response
+- Normalize: Convert to schemas
+- Realm: Update table
+- Return new query results
+- Done....
