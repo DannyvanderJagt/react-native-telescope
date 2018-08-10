@@ -6,6 +6,6 @@
     "lint": "echo lint"
   },
   "devDependencies": {
-    "lerna": "^2.5.1"
+    "lerna": "^3.0.0"
   }
 }
